@@ -5,15 +5,16 @@
 <body>
 
 <h1 align="center">Hi 👋, I'm Rafiul</h1>
-<h3 align="center">A passionate Computer Science and Engineering student from Bangladesh</h3>
+<h3 align="left">A passionate Computer Science and Engineering student at <a href="https://www.aiub.edu/">American International University Bangladesh</a></h3>
 
 
-<p align="center"> 🌱 I’m currently learning <strong>C#, Python, Java, C++</strong> </p>
-<p align="center"> ⚡ Fun fact: <strong>I think my passion is like water, takes whatever the shape that's containing it.</strong> </p>
+<p align="left"> 🌱 I’m currently learning <strong>C#, Python, Java, C++</strong> </p>
+<p align="left"> ⚡ Fun fact: <strong>I think my passion is like water, takes whatever the shape that's containing it.</strong> </p>
 
 <h3 align="left">Connect with me:</h3>
+<hr align="left">
 <p align="left">
-  <a href="https://fb.com/rafiul.rafi.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafiul.rafi.09" height="30" width="40" /></a>
+<a href="https://fb.com/rafiul.rafi.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafiul.rafi.09" height="30" width="40" /></a>
 </p>
 </p>
 
