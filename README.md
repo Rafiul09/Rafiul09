@@ -8,7 +8,7 @@
 <h3 align="left">A passionate Computer Science and Engineering student at <a href="https://www.aiub.edu/">American International University Bangladesh</a></h3>
 
 
-<p align="left"> 🌱 I’m currently learning <strong>Python</strong> </p>
+<p align="left"> 🌱 Currently conducting research for my bachelor's thesis</p>
 <p align="left"> ⚡ Fun fact: <strong>I think my passion is like water, takes whatever the shape that's containing it.</strong> </p>
 
 <h3 align="left">Connect with me:</h3>
