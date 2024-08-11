@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafiul09&show_icons=true&locale=en&layout=compact&theme=radical" alt="rafiul09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul09&show_icons=true&locale=en&theme=radical" alt="rafiul09" /></p>
+
 <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Rafiul09&icon=0&color=0" alt="rafiul09" /> </p>
 
 
