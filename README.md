@@ -9,7 +9,7 @@
 
 
 <p align="left"> 🌱 Currently conducting research for my bachelor's thesis.</p>
-<p align="left"> ⚡ Fun fact: <strong>I think my passion is like water, takes whatever the shape that's containing it.</strong> </p>
+<p align="left"> ⚡ Fun fact: I think my passion is like water, takes whatever the shape that's containing it.</p>
 
 <h3 align="left">Connect with me:</h3>
 <hr align="left">
